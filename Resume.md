@@ -19,6 +19,7 @@ Address: No.525, Tianhe Road, Tianhe District, Guangzhou
 #####   B.Eng, South China Agricultural University 2007-2011  
 +    Major Courses: Analog/Digital Electronic Technology, Digital Signal Processing, Communication System Theory, Signals and Systems
 +    GPA: 3.8
+
 #####   Master of Telecommunications Engineering of South China University of Technology   2011-2014    
 +    Major Courses: Machine Learning, Digital Image Processing, Pattern Recognition, Probability Theory, Mathematical Statistics, Internet Networking
 +    GPA: 3.0
